@@ -1,4 +1,3 @@
 # gitTest
 
-var name "Aaron Rosenberg"
-
+console.log("hello")
